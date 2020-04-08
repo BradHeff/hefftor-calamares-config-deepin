@@ -5,13 +5,13 @@
   selected: false
   expanded: true
   packages:
-    - brave
     - chromium
     - deluge
     - dropbox
     - evolution
     - falkon
     - filezilla
+    - firefox
     - firefox-adblock-plus
     - firefox-i18n-$LOCALE
     - geary
@@ -22,8 +22,8 @@
     - nextcloud-client
     - opera
     - pidgin
-    - qbittorrent
     - qutebrowser
     - thunderbird
     - transmission-gtk
     - vivaldi
+    - whatsapp-nativefier

@@ -1,2 +1,2 @@
-# ArcoLinuxB-Deepin Calamares configuration
+# Hefftor Calamares configuration
 

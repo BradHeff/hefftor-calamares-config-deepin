@@ -7,23 +7,14 @@
   packages:
     - albert
     - archey3
-    - baobab
     - bleachbit
-    - catfish
-    - evince
-    - glances
     - google-earth-pro
-    - grsync
-    - gtop
     - gufw
     - hddtemp
     - kbackup
-    - lm_sensors
     - open-vm-tools
     - optimus-manager
-    - meld
     - octopi
-    - powertop
     - putty
     - sigil
     - simple-scan
@@ -34,5 +25,3 @@
     - timeshift
     - vnstat
     - wireshark-qt
-    - wttr
-    - youtube-dl

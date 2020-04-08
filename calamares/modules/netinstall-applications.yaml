@@ -37,10 +37,6 @@
   selected: false
   packages:
     - terminus-font
-    - ttf-bitstream-vera
-    - ttf-fira-code
-    - ttf-inconsolata
-    - ttf-liberation
 - name: "Git"
   description: "Git"
   critical: false
@@ -61,6 +57,7 @@
     - darktable
     - digikam
     - gimp
+    - gimp-plugin-gmic
     - gpick
     - inkscape
     - krita
@@ -84,15 +81,6 @@
     - enpass-bin
     - keepassxc
     - lastpass
-- name: "Privacy"
-  description: "Applications that ensure your privacy"
-  critical: false
-  hidden: false
-  selected: false
-  packages:
-    - tor-browser
-    - tor
-    - privoxy
 - name: "Terminals"
   description: "Terminals"
   critical: false
@@ -107,6 +95,7 @@
     - lxterminal
     - sakura
     - terminator
+    - termite
     - tilix
     - tilda
     - tmux
@@ -118,6 +107,7 @@
   packages:
     - etcher-bin
     - imagewriter
+    - mintstick-git
     - woeusb
 - name: "Virtualbox for Linux kernel"
   description: "Installs virtualbox for linux kernel"
@@ -138,3 +128,14 @@
     - virtualbox-host-dkms
     - linux-lts-headers
     - linux-lts
+- name: "Zsh"
+  description: "Zsh"
+  critical: false
+  hidden: false
+  selected: false
+  packages:
+    - zsh
+    - zsh-completions
+    - zsh-syntax-highlighting
+    - oh-my-zsh-git
+    - arcolinux-zsh-git
